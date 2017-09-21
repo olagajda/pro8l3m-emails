@@ -3,4 +3,4 @@
 A set of promotional HTML emails.
 
 
-![](http://img.olagjd.com/pro-mail.png)
+![](http://img.aleksandragajda.com/pro-mail.png)
